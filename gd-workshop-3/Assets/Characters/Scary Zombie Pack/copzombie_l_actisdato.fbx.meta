@@ -3,7 +3,42 @@ guid: a9c666add0d6b4440b4da61fbdb8fea4
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_M
+    second: {fileID: 2100000, guid: 69096c66965ac1e4096c726421d28981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_M1
+    second: {fileID: 2100000, guid: 69096c66965ac1e4096c726421d28981, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_hair_M
+    second: {fileID: 2100000, guid: d724cfa709732a8819617b94fe3b90c5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FuzZombie_body_diffuse
+    second: {fileID: 2800000, guid: b77259b0fd286043fb826a4c2d1e3855, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FuzZombie_diffuse
+    second: {fileID: 2800000, guid: 6eabf87f2becf97fea5ef820c1918484, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FuzZombie_normal
+    second: {fileID: 2800000, guid: 972ca92c6ce697bc29244a6b3ed2c2eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FuzZombie_specular
+    second: {fileID: 2800000, guid: 559b1baab9dfebaac88889e39c9f401e, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
